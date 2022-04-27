@@ -15,7 +15,7 @@
   - Foi criado a Tag prod
   - Criado arquivo comandos.md com informações para baixar e rodar a imagem
   ```
-  [comandos](../comandos.md)
+  [comandos](./comandos.md)
 
 ## MongoDB
 
