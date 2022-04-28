@@ -10,12 +10,11 @@
   - Vincule o comando necessário para rodar o container da imagem criada considerando que ela será baixada do docker hub e conectará no postgres.
     - Atenção: as credenciais de acesso ao banco devem ser informadas através de variáveis de ambiente.
 
-  ```
-  - Imagem está no dockerhub messiasdb1/eive-java-exam-4
-  - Foi criado a Tag prod
-  - Criado arquivo comandos.md com informações para baixar e rodar a imagem
-  ```
-  [comandos](./comandos.md)
+  > - Imagem está no dockerhub [messiasdb1/eive-java-exam-4](https://hub.docker.com/r/messiasdb1/eive-java-exam-4)
+  > - Foi criado a Tag prod
+  > - Criado arquivo comandos.md com informações para baixar e rodar a imagem
+  
+  [comandos](./docker/comandos.md)
 
 ## MongoDB
 
