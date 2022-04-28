@@ -12,9 +12,9 @@
 
   > - Imagem está no dockerhub [messiasdb1/eive-java-exam-4](https://hub.docker.com/r/messiasdb1/eive-java-exam-4)
   > - Foi criado a Tag prod
-  > - Criado arquivo comandos.md com informações para baixar e rodar a imagem
+  > - Criado arquivo [comandos](./docker/comandos.md) com informações para baixar e rodar a imagem
   
-  [comandos](./docker/comandos.md)
+  
 
 ## MongoDB
 
@@ -24,3 +24,5 @@
     - Inserir um novo registro de imóvel para aluguel conforme estrutura já existente.
     - Alterar o valor do preço diário (`price`) para `500` do registro incluído.
     - Informar apenas o valor do apartamento com diária (`price`)  mais cara disponível no Brasil (`BR`) sem retornar o campo `_id`.
+
+  > - Criado o arquivo [mongo.md](./mongo/mongo.md) com as informações
